@@ -1,4 +1,7 @@
-![image](https://github.com/Not-Baguette/HOI4-German-Country-Names/assets/94969176/9d594050-5bc0-4c53-a19a-646eda9ae324)# HOI4-German-Country-Names
+# HOI4 German Country Names
+![image](https://github.com/Not-Baguette/HOI4-German-Country-Names/assets/94969176/a082acd2-483e-4255-8095-9564aea80ed3)
+
+
 HOI4 mod that changes names of factions and countries alike into german.
 
 ## Features:
